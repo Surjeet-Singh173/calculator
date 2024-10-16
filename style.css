@@ -2,8 +2,8 @@
     display:flex;
 }
 #app{
-    width:100vw;
-    height:100vh;
+    max-width:95vw;
+    maxx-height:95vh;
     padding:20px;
     display: flex;
     justify-content: center;
